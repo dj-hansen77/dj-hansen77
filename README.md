@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Dan
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning how to deploy R scripts in Python
-- 💞️ I’m looking to collaborate on Automation and Data Projects
+- 💞️ I’m looking to collaborate on Automation Projects
 - 📫 How to reach me dj.hansen77@gmail.com
 
 <!---
