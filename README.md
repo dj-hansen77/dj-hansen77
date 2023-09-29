@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Dan
-- 👀 I’m interested in Data Science
-- 💞️ I’m looking to collaborate on Automation Projects
 - 📫 How to reach me dj.hansen77@gmail.com
 
 <!---
